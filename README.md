@@ -1,7 +1,7 @@
 # VocabParse
-Utility to change the date format in the OHDSI vocabulary files.
+Utility to change the date format in the OHDSI vocabulary files to yyyy-MM-dd for Azure SQL Server load.
 
-It will quickly convert the concept.csv, drug_strength.csv, and concept_relationship.csv.
+It will convert the concept.csv, drug_strength.csv, and concept_relationship.csv.
 
 Usage:
 
